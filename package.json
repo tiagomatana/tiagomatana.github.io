@@ -1,0 +1,24 @@
+{
+  "name": "tiagomatana-github",
+  "version": "1.0.0",
+  "description": "site pessoal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagomatana/tiagomatana.github.io.git"
+  },
+  "author": "Administrator User <admin@example.org> (http://otus-solutions.com.br)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagomatana/tiagomatana.github.io/issues"
+  },
+  "homepage": "https://github.com/tiagomatana/tiagomatana.github.io#readme",
+  "dependencies": {
+    "@material/button": "^0.23.0",
+    "@material/theme": "^0.4.0",
+    "material-components-web": "^0.23.0"
+  }
+}
