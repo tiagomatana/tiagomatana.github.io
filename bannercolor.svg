@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="850"
+   height="320"
+   viewBox="0 0 850.00001 319.99996"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bannercolor.svg">
+  <defs
+     id="defs4">
+    <font
+       horiz-adv-x="1024"
+       id="font4228"
+       inkscape:label="Fonte 1"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="45"
+       vert-origin-y="90"
+       vert-adv-y="90">
+      <font-face
+         units-per-em="1024"
+         id="font-face4230"
+         font-family="SVGFont 1" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph4232" />
+    </font>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter4419">
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0 -0.989583 -0 1 0 "
+         id="feColorMatrix4421"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4423" />
+      <feColorMatrix
+         id="feColorMatrix4425"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0 -0.99 -0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="637.17162"
+     inkscape:cy="-109.3364"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     height="209mm"
+     units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-732.36235)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4714"
+       width="388"
+       height="612"
+       x="930"
+       y="704.36237" />
+    <g
+       id="g4163"
+       transform="matrix(3.6069866,0,0,3.6069866,5697.2539,-3654.7449)"
+       inkscape:export-filename="C:\Users\Tiago\Pictures\site Tiago\logo.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         sodipodi:nodetypes="cccccccccccccccc"
+         style="fill:#fad6c7"
+         d="m -2146.6982,1474.1454 -5.7168,-33.5715 17.0694,-29.3047 31.5242,-11.6634 32.3541,12.2602 16.2852,28.3899 -5.77,33.9095 -24.1736,20.9615 -36.4294,0.034 z m 85.7096,0.023 -25.6417,-45.2579 -27.8235,-9.7485 -15.4778,25.7852 4.5117,29.5594 z"
+         id="path4195"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccscccsccccccccccccc"
+         style="fill:#f9cbb7"
+         d="m -2146.7241,1474.1431 -5.7004,-33.5678 17.0753,-29.3218 31.5539,-11.6397 14.956,5.5243 c 8.4457,3.1196 16.077,6.2018 16.9031,7.0012 2.7548,2.6663 16.733,28.05 16.733,28.05 l -59.2538,-21.0156 c 0,0 -4.042,5.9029 -8.0669,13.0635 l -7.3954,12.6933 4.8867,29.4402 32.0442,0.139 32.0539,-0.3855 -13.1164,11.6562 -12.9602,9.3465 -16.9635,-0.023 -17.759,-0.1114 z m 75.4517,-18.1241 16.211,-15.8141 c -2e-4,8e-4 -5.9129,33.8956 -5.9129,33.8956 z"
+         id="path4193"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccc"
+         style="fill:#f7ae8f"
+         d="m -2146.7078,1474.1632 -5.7122,-33.5978 17.1035,-29.3685 31.5002,-11.5928 -10.6147,19.5299 -15.5075,25.7897 4.9814,29.3981 64.1112,-0.1898 -24.2569,21.1822 -36.4293,-0.1326 z m 60.1403,-45.1103 -17.2586,-29.4465 32.3616,12.1738 16.4246,28.438 z"
+         id="path4191"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         style="fill:#f49167"
+         d="m -2146.722,1474.1564 21.7792,0.1948 3.4225,20.8579 z m -5.6981,-33.5918 17.0482,-29.3063 5.4442,33.6736 -16.7969,29.2297 z m 17.0511,-29.3016 31.5619,-11.6605 -10.6477,19.5713 z"
+         id="path4187"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4694">
+      <text
+         transform="scale(0.86880852,1.1510016)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:109.68232727px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-2488.4219"
+         y="1626.0667"
+         id="text4238"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4240"
+           x="-2488.4219"
+           y="1626.0667"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Impact;-inkscape-font-specification:'Impact Condensed'">TIAGO MATANA</tspan></text>
+      <text
+         transform="scale(0.77528443,1.2898492)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.87541962px;line-height:125%;font-family:Fixedsys;-inkscape-font-specification:Fixedsys;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-2790.2747"
+         y="1520.2336"
+         id="text4242"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4244"
+           x="-2790.2747"
+           y="1520.2336"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'FAFERS Technical Font';-inkscape-font-specification:'FAFERS Technical Font';letter-spacing:-2.37697434px">DEVELOPMENT</tspan></text>
+    </g>
+    <g
+       transform="matrix(2.6826647,0,0,2.6826647,5790.9096,-2994.4304)"
+       id="g4169"
+       inkscape:export-filename="C:\Users\Tiago\Pictures\site Tiago\logo_v.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4171"
+         d="m -2146.6982,1474.1454 -5.7168,-33.5715 17.0694,-29.3047 31.5242,-11.6634 32.3541,12.2602 16.2852,28.3899 -5.8282,34.0493 -24.1154,20.8217 -36.4294,0.034 z m 85.6921,0.1628 -25.6242,-45.3977 -27.8235,-9.7485 -15.4778,25.7852 4.5117,29.5594 z"
+         style="fill:#fad6c7"
+         sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4173"
+         d="m -2146.7241,1474.1431 -5.7004,-33.5678 17.0753,-29.3218 31.5539,-11.6397 14.956,5.5243 c 8.4457,3.1196 16.077,6.2018 16.9031,7.0012 2.7548,2.6663 16.733,28.05 16.733,28.05 l -59.2538,-21.0156 c 0,0 -4.042,5.9029 -8.0669,13.0635 l -7.3954,12.6933 4.8867,29.4402 32.0442,0.139 31.9724,-0.2049 -13.0349,11.4756 -12.9602,9.3465 -16.9635,-0.023 -17.759,-0.1114 z m 75.4517,-18.1241 16.211,-15.8141 c -2e-4,8e-4 -5.9595,34.0936 -5.9595,34.0936 z"
+         style="fill:#f9cbb7"
+         sodipodi:nodetypes="ccccscccsccccccccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4175"
+         d="m -2146.7078,1474.1632 -5.7122,-33.5978 17.1035,-29.3685 31.5002,-11.5928 -10.6147,19.5299 -15.5075,25.7897 4.9814,29.3981 63.9423,-0.01 -24.088,21.0016 -36.4293,-0.1326 z m 60.1403,-45.1103 -17.2586,-29.4465 32.3616,12.1738 16.4246,28.438 z"
+         style="fill:#f7ae8f"
+         sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4177"
+         d="m -2146.722,1474.1564 21.7792,0.1948 3.4225,20.8579 z m -5.6981,-33.5918 17.0482,-29.3063 5.4442,33.6736 -16.7969,29.2297 z m 17.0511,-29.3016 31.5619,-11.6605 -10.6477,19.5713 z"
+         style="fill:#f49167"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </g>
+    <g
+       style="filter:url(#filter4419)"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Tiago\Pictures\site Tiago\logo_v.png"
+       id="g4207"
+       transform="matrix(2.6826647,0,0,2.6826647,6302.2864,-2267.1351)">
+      <path
+         sodipodi:nodetypes="cccccccccccccccc"
+         style="fill:#fad6c7"
+         d="m -2146.6982,1474.1454 -5.7168,-33.5715 17.0694,-29.3047 31.5242,-11.6634 32.3541,12.2602 16.2852,28.3899 -5.77,33.9095 -24.1736,20.9615 -36.4294,0.034 z m 85.7096,0.023 -25.6417,-45.2579 -27.8235,-9.7485 -15.4778,25.7852 4.5117,29.5594 z"
+         id="path4209"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccscccsccccccccccccc"
+         style="fill:#f9cbb7"
+         d="m -2146.7241,1474.1431 -5.7004,-33.5678 17.0753,-29.3218 31.5539,-11.6397 14.956,5.5243 c 8.4457,3.1196 16.077,6.2018 16.9031,7.0012 2.7548,2.6663 16.733,28.05 16.733,28.05 l -59.2538,-21.0156 c 0,0 -4.042,5.9029 -8.0669,13.0635 l -7.3954,12.6933 4.8867,29.4402 32.0442,0.139 32.0539,-0.3855 -13.1164,11.6562 -12.9602,9.3465 -16.9635,-0.023 -17.759,-0.1114 z m 75.4517,-18.1241 16.211,-15.8141 c -2e-4,8e-4 -5.9129,33.8956 -5.9129,33.8956 z"
+         id="path4211"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccc"
+         style="fill:#f7ae8f"
+         d="m -2146.7078,1474.1632 -5.7122,-33.5978 17.1035,-29.3685 31.5002,-11.5928 -10.6147,19.5299 -15.5075,25.7897 4.9814,29.3981 64.1112,-0.1898 -24.2569,21.1822 -36.4293,-0.1326 z m 60.1403,-45.1103 -17.2586,-29.4465 32.3616,12.1738 16.4246,28.438 z"
+         id="path4213"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         style="fill:#f49167"
+         d="m -2146.722,1474.1564 21.7792,0.1948 3.4225,20.8579 z m -5.6981,-33.5918 17.0482,-29.3063 5.4442,33.6736 -16.7969,29.2297 z m 17.0511,-29.3016 31.5619,-11.6605 -10.6477,19.5713 z"
+         id="path4215"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4219"
+       y="1830.0121"
+       x="-1186.2123"
+       style="font-style:normal;font-weight:normal;font-size:109.68232727px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4419)"
+       xml:space="preserve"
+       transform="matrix(0.82567683,0,0,1.0938605,1792.7626,-379.86672)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#ffd5d5"
+         y="1830.0121"
+         x="-1186.2123"
+         id="tspan4221"
+         sodipodi:role="line">TIAGO MATANA</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4572"
+       y="1408.7599"
+       x="935.29175"
+       style="font-style:normal;font-weight:normal;font-size:104.23718262px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.86880853,1.1510016)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#ffffff"
+         y="1408.7599"
+         x="935.29175"
+         id="tspan4574"
+         sodipodi:role="line">TIAGO MATANA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:69.47203064px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="807.27527"
+       y="1682.5023"
+       id="text4624"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4626"
+         x="807.27527"
+         y="1682.5023">DEVELOPMENT</tspan></text>
+    <g
+       id="g4700"
+       style="fill:#000000"
+       transform="translate(2455.9999,-976.67698)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4702"
+         y="1626.0667"
+         x="-2488.4219"
+         style="font-style:normal;font-weight:normal;font-size:109.68232727px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(0.86880852,1.1510016)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#000000"
+           y="1626.0667"
+           x="-2488.4219"
+           id="tspan4704"
+           sodipodi:role="line">TIAGO MATANA</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4706"
+         y="1668.46"
+         x="-2543.0579"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.59348297px;line-height:125%;font-family:Fixedsys;-inkscape-font-specification:Fixedsys;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(0.85072691,1.1754653)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gulim;-inkscape-font-specification:Gulim;letter-spacing:-2.22441292px;fill:#000000"
+           y="1668.46"
+           x="-2543.0579"
+           id="tspan4708"
+           sodipodi:role="line">DEVELOPMENT</tspan></text>
+    </g>
+  </g>
+</svg>
